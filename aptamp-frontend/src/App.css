@@ -1,0 +1,23 @@
+/* Custom global styles and navigation transitions */
+
+.nav-item {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  padding-bottom: 4px;
+  border-bottom: 3px solid transparent;
+  transition: all 0.25s ease-in-out;
+}
+
+.nav-item:hover {
+  color: #F4A300 !important;
+  border-bottom: 3px solid #F4A300;
+}
+
+.nav-item.active {
+  color: #F4A300 !important;
+  border-bottom: 3px solid #F4A300;
+}

@@ -1,0 +1,8 @@
+.metadata/
+target/
+uploads/
+.uploads/
+frontend.zip
+aptamp_db_backup.bak
+*.log
+node_modules/

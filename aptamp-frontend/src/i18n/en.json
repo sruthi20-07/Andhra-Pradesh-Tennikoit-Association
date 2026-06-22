@@ -1,0 +1,137 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "committee": "Committee",
+    "tournaments": "Tournaments",
+    "rankings": "Rankings",
+    "gallery": "Gallery",
+    "calendar": "Calendar",
+    "downloads": "Downloads",
+    "contact": "Contact Us"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "player": {
+    "dashboard": "Player Dashboard",
+    "profile": "My Profile",
+    "myRank": "My State Ranking",
+    "editProfile": "Edit Profile",
+    "myRegistrations": "My Registrations",
+    "tournaments": "Tournaments",
+    "rankings": "Rankings",
+    "gallery": "Gallery",
+    "calendar": "Calendar",
+    "downloads": "Downloads",
+    "notifications": "Notifications",
+    "payments": "Payments",
+    "feedback": "Feedback"
+  },
+  "admin": {
+    "dashboard": "Admin Dashboard",
+    "playerManagement": "Player Management",
+    "tournamentManagement": "Tournament Management",
+    "rankingManagement": "Ranking Management",
+    "galleryManagement": "Gallery Management",
+    "notifications": "Notifications Management",
+    "downloads": "Downloads Management",
+    "settings": "Settings",
+    "approve": "Approve",
+    "reject": "Reject"
+  },
+  "status": {
+    "pending": "Pending",
+    "approved": "Approved",
+    "rejected": "Rejected",
+    "active": "Active",
+    "closed": "Closed",
+    "upcoming": "Upcoming"
+  },
+  "hero": {
+    "title": "Andhra Pradesh Tennikoit Association",
+    "subtitle": "Promoting Excellence in Tennikoit Across Andhra Pradesh",
+    "cta": {
+      "register": "Register Now",
+      "rankings": "View Rankings"
+    }
+  },
+  "header": {
+    "subtitle": "Official State Sports Management Portal"
+  },
+  "stats": {
+    "totalPlayers": "Total Players",
+    "activePlayers": "Active Players",
+    "districts": "Districts Covered",
+    "tournaments": "Tournaments Conducted"
+  },
+  "common": {
+    "save": "Save Changes",
+    "cancel": "Cancel",
+    "apply": "Apply",
+    "refresh": "Refresh",
+    "status": "Status",
+    "actions": "Actions",
+    "loading": "Loading...",
+    "error": "Error occurred",
+    "profile": "Profile",
+    "paid": "Paid",
+    "unpaid": "Pay Fee",
+    "all": "All",
+    "back": "Back"
+  },
+  "dashboard": {
+    "welcome": "Welcome, {{name}}!",
+    "playerId": "Player ID",
+    "district": "District",
+    "category": "Category",
+    "currentRank": "Current Rank",
+    "recentTournaments": "Recent Tournaments",
+    "recentNotifications": "Recent Notifications",
+    "quickActions": "Quick Actions",
+    "registerTournament": "Register for Tournament",
+    "viewRankings": "View Rankings",
+    "updateProfile": "Update Profile",
+    "totalPlayers": "Total Players",
+    "pendingApprovals": "Pending Approvals",
+    "activeTournaments": "Active Tournaments",
+    "totalRegistrations": "Total Registrations",
+    "recentRegistrations": "Recent Registrations",
+    "growthChart": "Player Registrations by District",
+    "revenueChart": "Tournament Participation by Category",
+    "underReview": "Your profile is currently under review by the Andhra Pradesh Tennikoit Association administration. You will be able to register for tournaments and view full ranking tables once your profile has been approved."
+  },
+  "forms": {
+    "username": "Username or Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "name": "Full Name (English)",
+    "nameTe": "Full Name (Telugu)",
+    "email": "Email Address",
+    "mobile": "10-Digit Mobile Number",
+    "dob": "Date of Birth",
+    "gender": "Gender",
+    "fatherName": "Father's Name",
+    "district": "District",
+    "photo": "Profile Photo",
+    "idProof": "ID Proof (Aadhaar/Voter/PAN)",
+    "selectGender": "Select Gender",
+    "selectDistrict": "Select District",
+    "experience": "Experience (Years)",
+    "prevAssociation": "Previous Association (if any)",
+    "rules": "Rules & Regulations",
+    "fee": "Registration Fee (INR)",
+    "description": "Description",
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "deadline": "Registration Deadline",
+    "brochure": "Upload Tournament Brochure (PDF/Image)",
+    "category": "Tournament Category",
+    "venue": "Venue",
+    "isFree": "Is Registration Free?",
+    "instructions": "Payment Instructions",
+    "submit": "Submit"
+  }
+}
